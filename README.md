@@ -10,7 +10,7 @@ At the moment i am focusing on this tools:
   <img src="./logos/nestjs.svg" alt="NestJS" width="72" height="72">
 </p>
 
-Checkout the [sudoKU repo](https://github.com/handgull/sudoKU) from the pinned ones to check my current Flutter skills!
+Checkout the [sudoKU repo](https://github.com/handgull/sudoKU) from the pinned ones to check my current Flutter skills!<br>
 If you're more interested in seeing how I work with Angular, I've made a take-home project I completed publicly available [here](https://github.com/handgull/take-home-orbyta)
 
 <div align="center">
