@@ -11,7 +11,7 @@ At the moment i am focusing on this tools:
 </p>
 
 Checkout the [sudoKU repo](https://github.com/handgull/sudoKU) from the pinned ones to check my current Flutter skills!<br>
-If you're more interested in seeing how i work with Angular, I've made a take-home project i completed publicly available [here](https://github.com/handgull/take-home-orbyta)
+If you're more interested in seeing how i work with Angular, i've made a take-home project i completed publicly available [here](https://github.com/handgull/take-home-orbyta)
 
 <div align="center">
   <img src="./memes/apes-together-strong.avif" style="max-height: 300px" />
